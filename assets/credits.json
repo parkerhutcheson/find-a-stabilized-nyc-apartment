@@ -1,0 +1,16 @@
+{
+    "landscape": {
+        "file": "landscape.jpg",
+        "photographer": "Diane Picchiottino",
+        "photographerUrl": "https://unsplash.com/@diane_soko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-city-with-many-buildings-22g_IfzvabQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+    },
+    "portrait": {
+        "file": "portrait.jpg",
+        "photographer": "Pierre Jeanneret",
+        "photographerUrl": "https://unsplash.com/@pierrejeanneret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-trees-during-daytime-QL_DdWFUsFc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+    }
+}
